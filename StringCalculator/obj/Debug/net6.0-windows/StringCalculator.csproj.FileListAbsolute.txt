@@ -1,0 +1,17 @@
+C:\Users\SinghR\source\repos\StringCalculator\StringCalculator\bin\Debug\net6.0-windows\StringCalculator.exe
+C:\Users\SinghR\source\repos\StringCalculator\StringCalculator\bin\Debug\net6.0-windows\StringCalculator.deps.json
+C:\Users\SinghR\source\repos\StringCalculator\StringCalculator\bin\Debug\net6.0-windows\StringCalculator.runtimeconfig.json
+C:\Users\SinghR\source\repos\StringCalculator\StringCalculator\bin\Debug\net6.0-windows\StringCalculator.dll
+C:\Users\SinghR\source\repos\StringCalculator\StringCalculator\bin\Debug\net6.0-windows\StringCalculator.pdb
+C:\Users\SinghR\source\repos\StringCalculator\StringCalculator\obj\Debug\net6.0-windows\StringCalculator.csproj.AssemblyReference.cache
+C:\Users\SinghR\source\repos\StringCalculator\StringCalculator\obj\Debug\net6.0-windows\StringCalculator.Form1.resources
+C:\Users\SinghR\source\repos\StringCalculator\StringCalculator\obj\Debug\net6.0-windows\StringCalculator.csproj.GenerateResource.cache
+C:\Users\SinghR\source\repos\StringCalculator\StringCalculator\obj\Debug\net6.0-windows\StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SinghR\source\repos\StringCalculator\StringCalculator\obj\Debug\net6.0-windows\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\SinghR\source\repos\StringCalculator\StringCalculator\obj\Debug\net6.0-windows\StringCalculator.AssemblyInfo.cs
+C:\Users\SinghR\source\repos\StringCalculator\StringCalculator\obj\Debug\net6.0-windows\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\SinghR\source\repos\StringCalculator\StringCalculator\obj\Debug\net6.0-windows\StringCalculator.dll
+C:\Users\SinghR\source\repos\StringCalculator\StringCalculator\obj\Debug\net6.0-windows\refint\StringCalculator.dll
+C:\Users\SinghR\source\repos\StringCalculator\StringCalculator\obj\Debug\net6.0-windows\StringCalculator.pdb
+C:\Users\SinghR\source\repos\StringCalculator\StringCalculator\obj\Debug\net6.0-windows\StringCalculator.genruntimeconfig.cache
+C:\Users\SinghR\source\repos\StringCalculator\StringCalculator\obj\Debug\net6.0-windows\ref\StringCalculator.dll
